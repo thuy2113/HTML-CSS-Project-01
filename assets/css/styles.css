@@ -476,7 +476,7 @@ a {
     color: #000339;
     font-size: 3.5rem;
     font-weight: 600;
-    line-height: 1.2; /* 128.571% */
+    line-height: 1.2;
     margin-bottom: 20px;
 }
 
@@ -497,7 +497,7 @@ a {
     color: #5a6473;
     font-size: 1.6rem;
     font-weight: 400;
-    line-height: 1.8; /* 187.5% */
+    line-height: 1.8;
 }
 
 .stats .row-qty {
@@ -543,7 +543,7 @@ a {
     color: #fff;
     font-size: 3.5rem;
     font-weight: 600;
-    line-height: 1.5; /* 100% */
+    line-height: 1.5;
 }
 
 .subscription .desc {
@@ -551,7 +551,7 @@ a {
     color: #fff;
     font-size: 1.6rem;
     font-weight: 400;
-    line-height: 1.88; /* 187.5% */
+    line-height: 1.88;
 }
 
 .subscription .btn {
